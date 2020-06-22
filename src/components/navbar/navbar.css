@@ -1,0 +1,13 @@
+.navbar {
+    height: 50px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar p {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.navbar .score p {
+   text-align: center;
+}
