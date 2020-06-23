@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/git@github.com:brookeguarienti/food-click-game.git/static/css/main.745fcf61.chunk.css",
-    "main.js": "/git@github.com:brookeguarienti/food-click-game.git/static/js/main.0a6a20d3.chunk.js",
-    "main.js.map": "/git@github.com:brookeguarienti/food-click-game.git/static/js/main.0a6a20d3.chunk.js.map",
-    "runtime-main.js": "/git@github.com:brookeguarienti/food-click-game.git/static/js/runtime-main.42b840db.js",
-    "runtime-main.js.map": "/git@github.com:brookeguarienti/food-click-game.git/static/js/runtime-main.42b840db.js.map",
-    "static/js/2.69b5d891.chunk.js": "/git@github.com:brookeguarienti/food-click-game.git/static/js/2.69b5d891.chunk.js",
-    "static/js/2.69b5d891.chunk.js.map": "/git@github.com:brookeguarienti/food-click-game.git/static/js/2.69b5d891.chunk.js.map",
-    "index.html": "/git@github.com:brookeguarienti/food-click-game.git/index.html",
-    "precache-manifest.d0b37ce4e905a9b96e0898647aeb52db.js": "/git@github.com:brookeguarienti/food-click-game.git/precache-manifest.d0b37ce4e905a9b96e0898647aeb52db.js",
-    "service-worker.js": "/git@github.com:brookeguarienti/food-click-game.git/service-worker.js",
-    "static/css/main.745fcf61.chunk.css.map": "/git@github.com:brookeguarienti/food-click-game.git/static/css/main.745fcf61.chunk.css.map",
-    "static/js/2.69b5d891.chunk.js.LICENSE.txt": "/git@github.com:brookeguarienti/food-click-game.git/static/js/2.69b5d891.chunk.js.LICENSE.txt"
+    "main.css": "/food-click-game/static/css/main.745fcf61.chunk.css",
+    "main.js": "/food-click-game/static/js/main.b400d509.chunk.js",
+    "main.js.map": "/food-click-game/static/js/main.b400d509.chunk.js.map",
+    "runtime-main.js": "/food-click-game/static/js/runtime-main.44b955a3.js",
+    "runtime-main.js.map": "/food-click-game/static/js/runtime-main.44b955a3.js.map",
+    "static/js/2.69b5d891.chunk.js": "/food-click-game/static/js/2.69b5d891.chunk.js",
+    "static/js/2.69b5d891.chunk.js.map": "/food-click-game/static/js/2.69b5d891.chunk.js.map",
+    "index.html": "/food-click-game/index.html",
+    "precache-manifest.40a6a98de8be366e43444bfdecf98ebd.js": "/food-click-game/precache-manifest.40a6a98de8be366e43444bfdecf98ebd.js",
+    "service-worker.js": "/food-click-game/service-worker.js",
+    "static/css/main.745fcf61.chunk.css.map": "/food-click-game/static/css/main.745fcf61.chunk.css.map",
+    "static/js/2.69b5d891.chunk.js.LICENSE.txt": "/food-click-game/static/js/2.69b5d891.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42b840db.js",
+    "static/js/runtime-main.44b955a3.js",
     "static/js/2.69b5d891.chunk.js",
     "static/css/main.745fcf61.chunk.css",
-    "static/js/main.0a6a20d3.chunk.js"
+    "static/js/main.b400d509.chunk.js"
   ]
 }
