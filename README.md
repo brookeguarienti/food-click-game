@@ -1,3 +1,35 @@
+# Food-Click-Game
+The main purpose of this application is to use React to create a memory game. 
+
+### Check out the live link here:
+https://brookeguarienti.github.io/food-click-game/
+
+
+
+### How to use the app
+The user will click on one of 16 food images provided.
+
+The purpose of the game is to never click the same image more than once.
+
+If the user clicks on an image that they have previously selected, the game will render itself again.
+
+High score is kept and updated each time the user beats their previous score. 
+
+
+### Technologies used
+* Javascript
+* React
+* HTML
+* Git
+* GitHub
+
+#### Author
+Brooke Guarienti 
+
+
+
+## For More Information on Creating a React App, See Below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
