@@ -4,7 +4,7 @@ The main purpose of this application is to use React to create a memory game.
 ### Check out the live link here:
 https://brookeguarienti.github.io/food-click-game/
 
-
+<img src= "public/assets/Screenshot/React App.gif">
 
 ### How to use the app
 The user will click on one of 16 food images provided.
